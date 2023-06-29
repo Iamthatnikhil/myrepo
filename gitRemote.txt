@@ -1,0 +1,7 @@
+how to create a git repositary 
+1 - create a empty repo in github
+2- setup the username and email in the local by cmd 
+  2.1 - git config --global user.name "entername"
+  2.2 - git config --global user.email "enteremail"
+3- you may face issues while pushing the repo
+  in that issue you have to validate a token
